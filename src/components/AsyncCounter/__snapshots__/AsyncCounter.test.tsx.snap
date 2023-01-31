@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AsyncCounter インクリメント 1`] = `
+<DocumentFragment>
+  <div>
+    <strong
+      data-testid="async_count"
+    >
+      0
+    </strong>
+  </div>
+  <button>
+    count down
+  </button>
+  <button>
+    count up
+  </button>
+</DocumentFragment>
+`;
+
+exports[`AsyncCounter デクリメント 1`] = `
+<DocumentFragment>
+  <div>
+    <strong
+      data-testid="async_count"
+    >
+      0
+    </strong>
+  </div>
+  <button>
+    count down
+  </button>
+  <button>
+    count up
+  </button>
+</DocumentFragment>
+`;
+
+exports[`AsyncCounter 初期化 1`] = `
+<DocumentFragment>
+  <div>
+    <strong
+      data-testid="async_count"
+    >
+      0
+    </strong>
+  </div>
+  <button>
+    count down
+  </button>
+  <button>
+    count up
+  </button>
+</DocumentFragment>
+`;
+
+exports[`AsyncCounter 押下後にロードが非表示 1`] = `
+<DocumentFragment>
+  <div>
+    <strong
+      data-testid="async_count"
+    >
+      0
+    </strong>
+  </div>
+  <button>
+    count down
+  </button>
+  <button>
+    count up
+  </button>
+</DocumentFragment>
+`;
+
+exports[`AsyncCounter 押下後のボタン活性 1`] = `
+<DocumentFragment>
+  <div>
+    <strong
+      data-testid="async_count"
+    >
+      0
+    </strong>
+  </div>
+  <button>
+    count down
+  </button>
+  <button>
+    count up
+  </button>
+</DocumentFragment>
+`;
+
+exports[`AsyncCounter 押下時にロードが表示 1`] = `
+<DocumentFragment>
+  <div>
+    <strong
+      data-testid="async_count"
+    >
+      0
+    </strong>
+  </div>
+  <button>
+    count down
+  </button>
+  <button>
+    count up
+  </button>
+</DocumentFragment>
+`;
+
+exports[`AsyncCounter 押下時のボタン非活性 1`] = `
+<DocumentFragment>
+  <div>
+    <strong
+      data-testid="async_count"
+    >
+      0
+    </strong>
+  </div>
+  <button>
+    count down
+  </button>
+  <button>
+    count up
+  </button>
+</DocumentFragment>
+`;

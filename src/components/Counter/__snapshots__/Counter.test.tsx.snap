@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter インクリメント 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <strong
+        data-testid="count"
+      >
+        0
+      </strong>
+    </div>
+    <button>
+      count down
+    </button>
+    <button>
+      count up
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Counter デクリメント 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <strong
+        data-testid="count"
+      >
+        0
+      </strong>
+    </div>
+    <button>
+      count down
+    </button>
+    <button>
+      count up
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Counter 初期化 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <strong
+        data-testid="count"
+      >
+        0
+      </strong>
+    </div>
+    <button>
+      count down
+    </button>
+    <button>
+      count up
+    </button>
+  </div>
+</DocumentFragment>
+`;
